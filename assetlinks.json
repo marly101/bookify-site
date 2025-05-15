@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iri_g.tashtit",
+      "sha256_cert_fingerprints": [
+        "9C:1B:CA:1F:5A:E9:94:42:7B:4A:DE:B2:26:2F:B6:2F:06:7B:AD:AA:9F:A1:15:71:0E:0A:BC:66:83:A7:25:9AT"
+      ]
+    }
+  }
+]
